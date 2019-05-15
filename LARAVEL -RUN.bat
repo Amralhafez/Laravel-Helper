@@ -16,12 +16,14 @@ echo      -.omNNNNmm+.-              :+++-      ./+++  ./+++++++++/-   -++++++++
 echo         `ohdho`                                                                                    
 echo           `/                                                                                       
                                             
+echo .
+echo .
+echo .
 
-
-Title Wolf Larave Helper
-
+Title Wolf Laravel Helper
+echo Welcome To Wolf Laravel Helper Tool
 echo press 1 to Start server
-echo press 2 to Go  Files
+echo press 2 to Open  File
 echo press 3 to Create NEW 
 set /p Cho=
 if %Cho% == 1 goto SERV
